@@ -1,4 +1,4 @@
-# User-Management CRUD Maven Project
+# User-Management CRUD Maven - Hibernate Project
 
 
 #Import project to eclipse
