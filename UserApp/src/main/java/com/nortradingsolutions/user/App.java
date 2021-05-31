@@ -40,7 +40,7 @@ public class App {
 		User user = new User();
 		Address address= new Address();
 		AddressDao addressDao = new AddressDaoImpl();
-		List<Address>adds= addressDao.getAddressByUserId(3);
+		List<Address>adds;
 		Scanner console = new Scanner(System.in);
 		try { 			
 		OptionsUtil.MENU = OptionsUtil.displayMenu(OptionsUtil.options, OptionsUtil.MENU, console,"Select an option: ");
