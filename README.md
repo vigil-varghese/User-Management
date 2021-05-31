@@ -1,6 +1,6 @@
 # User-Management CRUD Maven - Hibernate Project
 
-Project: UserApp
+Project: UserManagement
 
 #Import project to eclipse
 
@@ -12,7 +12,8 @@ Project: UserApp
 
 #Setup SQLite database:
 1) Open SQLiteStudio (3.3.3)
-2) Goto Database->Add a database -> select provided database "usersdb.db" file located in UserApp Folder
+2) Goto Database->Add a database -> select provided database "persons.db" file located in UserApp Folder
+
 
 
 # User-Management CRUD Using SpringMvc - Maven - Hibernate Project
